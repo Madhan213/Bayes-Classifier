@@ -1,4 +1,6 @@
-# Bayes-Classifier
+# EXPERIMENT-2
+# DATE:30/08/2023
+# Implementation of Bayes-Classifier
 ## Aim:
 To Construct a Bayes Classifier to classiy iris dataset using Python.
 ## Algorithm:
